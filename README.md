@@ -1,14 +1,14 @@
 # Sorting_Visualiser
 <html>
 <body>
-<h3> This is a simple visualization project made using javascript </h3>
-<h3> Bubble Sort </h3>
-<h3> Selection Sort </h3>
-<h3> Insertion Sort </h3>
-<h3> Quick Sort </h3>
-<h3> Merge Sort </h3>
-<h3> This is built using HTML, CSS, JavaScript </h3>
+<h2> This is a simple visualization project made using javascript </h2>
+<h2> Bubble Sort </h2>
+<h2> Selection Sort </h2>
+<h2> Insertion Sort </h2>
+<h2> Quick Sort </h2>
+<h2> Merge Sort </h2>
+<h2> This is built using HTML, CSS, JavaScript </h2>
 
-<a href="">Check this project Website</a>
+<a href="https://sarbananda-maji.github.io/Sorting_Visualiser/">Check this project Website</a>
 </body>
 </html>
